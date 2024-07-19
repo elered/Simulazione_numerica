@@ -1,0 +1,7 @@
+
+genetic:39158 terminated with signal 11 at PC=572ce80c9c11 SP=7ffea31e06c0.  Backtrace:
+./genetic(+0x6c11)[0x572ce80c9c11]
+./genetic(+0x3304)[0x572ce80c6304]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x752b53c29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x752b53c29e40]
+./genetic(+0x3d95)[0x572ce80c6d95]
